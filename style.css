@@ -1,9 +1,10 @@
 body {
-    background-color: lightblue;
-    font-family: Arial, sans-serif;
+    margin: 15px;
+    background-color: rgb(253, 251, 249);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h1 {
-    color: navy;
-    text-align: center;
+    color: #0E18D8;
+    text-align: right;
 }
