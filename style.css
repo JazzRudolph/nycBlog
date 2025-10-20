@@ -1,10 +1,42 @@
 body {
     margin: 15px;
-    background-color: rgb(253, 251, 249);
+    padding: 20px;
+    max-width: 1200px;
+    min-width: 300px;
+    background-color: rgb(0, 0, 0);
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0E18D8;
 }
 
 h1 {
     color: #0E18D8;
     text-align: right;
+}
+
+.navBar {
+    padding: 10px;
+    text-align: center;
+}
+.navBar li {
+    display: inline;
+    font-size: 40px;
+    margin-right: 30px;
+}
+.navBar a {
+    text-decoration: none;
+    color: #0E18D8;
+}
+.navBar a:hover {
+    color:rgb(255, 83, 20);
+}
+
+.blogSection {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    ;
+}
+.blogPic {
+    max-width: 100%;
+    height: auto;
 }
